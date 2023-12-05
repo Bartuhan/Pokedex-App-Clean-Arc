@@ -1,4 +1,4 @@
-# clean_arch_pokemon
+# Clean Architexture için Örnek Uygulamam
 
 A new Flutter project.
 
